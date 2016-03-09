@@ -1,5 +1,5 @@
 # IMP-Links-For-Android-Devlopment
-In this repo. I am put imp links which can help anyone to find assets for developing Android App 
+In this repo. I will put imp links which can help anyone to find assets for developing Android App 
 
  - [Devlopers' Training By Google](http://developer.android.com/training/index.html)
 	-	This is the link for begginers and trainees for developing Android App. On this link you will find example codes and explenation of these code by google.
